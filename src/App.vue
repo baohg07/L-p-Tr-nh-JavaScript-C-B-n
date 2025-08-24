@@ -1,9 +1,11 @@
 <script setup>
   import BuiltInCoban from './Built-in/Built-in-Coban.vue';
+  import ToanTuBasic from './ToanTu/ToanTu-Basic.vue';
 </script>
 
 <template>
-  <BuiltInCoban />
+  <!-- <BuiltInCoban /> -->
+  <ToanTuBasic />
 </template>
 
 <style scoped>
